@@ -1,0 +1,28 @@
+#find-jobs{
+    width:40% !important;
+}
+#content-slider{
+    width: 60% !important;
+}
+
+.justify-content-between{
+    justify-content: space-between;
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1199px){
+    #x1-block.ss-small, .ss-small #content-slider, .ss-small #find-jobs {height: unset !important}
+    #find-jobs{
+        width:100% !important;
+    }
+    #content-slider{
+        width: 100% !important;
+        margin-top: 10px;
+        border: none;
+    }
+}
+
+@media only screen and (min-width: 1200px){
+    .d-lg-flex{
+        display: flex !important
+    }
+}

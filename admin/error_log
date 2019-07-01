@@ -1,0 +1,14 @@
+[14-Feb-2019 04:59:55 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/thapaeastlink/public_html/jobportal/admin/index.php on line 23
+[14-Feb-2019 05:01:06 Etc/GMT] PHP Notice:  Use of undefined constant USER_IMAGES_PATH - assumed 'USER_IMAGES_PATH' in /home/thapaeastlink/public_html/jobportal/admin/job_seeker_add.php on line 145
+[14-Feb-2019 06:05:12 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/thapaeastlink/public_html/jobportal/admin/index.php on line 23
+[14-Feb-2019 06:31:09 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/thapaeastlink/public_html/jobportal/admin/index.php on line 23
+[14-Feb-2019 06:45:00 Etc/GMT] PHP Notice:  Undefined index: name in /home/thapaeastlink/public_html/jobportal/admin/inc/header.php on line 32
+[14-Feb-2019 06:45:00 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/thapaeastlink/public_html/jobportal/admin/index.php on line 23
+[14-Feb-2019 19:19:10 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/thapaeastlink/public_html/jobportal/admin/index.php on line 23
+[15-Feb-2019 07:42:39 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/thapaeastlink/public_html/jobportal/admin/index.php on line 23
+[15-Feb-2019 20:30:18 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/thapaeastlink/public_html/jobportal/admin/index.php on line 23
+[17-Feb-2019 16:22:53 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/thapaeastlink/public_html/jobportal/admin/index.php on line 23
+[18-Feb-2019 09:38:25 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/thapaeastlink/public_html/jobportal/admin/index.php on line 23
+[18-Feb-2019 11:10:16 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/thapaeastlink/public_html/jobportal/admin/index.php on line 23
+[19-Feb-2019 11:53:16 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/thapaeastlink/public_html/jobportal/admin/index.php on line 23
+[20-Feb-2019 06:23:32 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/thapaeastlink/public_html/jobportal/admin/index.php on line 23

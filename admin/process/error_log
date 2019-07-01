@@ -1,0 +1,20 @@
+[14-Feb-2019 07:11:02 Etc/GMT] PHP Fatal error:  Uncaught Error: Class 'home\thapaeastlink\public_html\jobportal\admin\config\PHPMailer\PHPMailer' not found in /home/thapaeastlink/public_html/jobportal/admin/process/forgot_password.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/thapaeastlink/public_html/jobportal/admin/process/forgot_password.php on line 15
+[14-Feb-2019 07:11:05 Etc/GMT] PHP Fatal error:  Uncaught Error: Class 'home\thapaeastlink\public_html\jobportal\admin\config\PHPMailer\PHPMailer' not found in /home/thapaeastlink/public_html/jobportal/admin/process/forgot_password.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/thapaeastlink/public_html/jobportal/admin/process/forgot_password.php on line 15
+[14-Feb-2019 07:13:54 Etc/GMT] PHP Fatal error:  Uncaught Error: Class 'home\thapaeastlink\public_html\jobportal\admin\config\PHPMailer\src\PHPMailer' not found in /home/thapaeastlink/public_html/jobportal/admin/process/forgot_password.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/thapaeastlink/public_html/jobportal/admin/process/forgot_password.php on line 15
+[14-Feb-2019 07:14:02 Etc/GMT] PHP Fatal error:  Uncaught Error: Class 'home\thapaeastlink\public_html\jobportal\admin\config\PHPMailer\src\PHPMailer' not found in /home/thapaeastlink/public_html/jobportal/admin/process/forgot_password.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/thapaeastlink/public_html/jobportal/admin/process/forgot_password.php on line 15
+[14-Feb-2019 07:14:05 Etc/GMT] PHP Fatal error:  Uncaught Error: Class 'home\thapaeastlink\public_html\jobportal\admin\config\PHPMailer\src\PHPMailer' not found in /home/thapaeastlink/public_html/jobportal/admin/process/forgot_password.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/thapaeastlink/public_html/jobportal/admin/process/forgot_password.php on line 15

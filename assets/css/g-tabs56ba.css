@@ -1,0 +1,8 @@
+.g-tabs *{font-family: tahoma}
+.g-tabs>ul {margin: 0; padding: 0; list-style: none; height: 30px }
+.g-tabs>ul li.tab {float: left; border-width: 1px 1px 0px 1px; border-color: #ccc; border-style: solid; margin-right: 4px; padding: 0px; } 
+.g-tabs>ul li.tab>a {margin: 0px; display: block; padding: 10px 12px 5px 12px; font-weight: bold; color: #1c94c4; background: #f6f6f6; }
+.g-tabs>ul li.active {height: 100%; }
+.g-tabs>ul li.active>a {background: #fff; padding: 10px 12px; color: #000; text-decoration: none; cursor: text; }
+.g-tabs>div {border: 1px solid #ccc; display: none; }
+.g-tabs>div.active {display: block; padding: 10px; }

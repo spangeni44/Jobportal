@@ -1,0 +1,104 @@
+.popup
+{
+	position: absolute;
+	z-index: 600;
+	display: none;
+	font-weight: normal;
+}
+.popup *
+{
+	font-family: tahoma;
+}
+.popup .body
+{
+	background-color: #fff;
+	-moz-box-shadow: 0px 0px 7px rgba(0, 0, 0, 0.19);
+	-webkit-box-shadow: 0px 0px 7px rgba(0, 0, 0, 0.19);
+	box-shadow: 0px 0px 7px rgba(0, 0, 0, 0.19);
+	margin-top: 10px;
+}
+
+.popup .body>div
+{
+	padding: 10px;
+}
+
+.popup .ptr
+{
+	padding: 0;
+	position: absolute;
+	top: -5px;
+}
+.popup .ptr-center
+{
+	left: 42%;
+}
+
+.popup .ptr-right
+{
+	right: 0px;
+}
+.popup .ptr-img
+{
+	height: 0;
+	width: 0;
+	margin: 0 auto;
+	border: 10px solid transparent;
+	border-bottom-color: #fff;
+}
+
+.popup .header-note
+{
+	color: #666;
+	background: #fff;
+	font-size: 11px;
+}
+.popup .content-area
+{
+	/*background: #f5f5f5;*/
+	/*background: #fff;*/
+	padding-top: 15px !important ;
+}
+.popup .footer-area
+{
+	/*background: #f5f5f5;*/
+	background: #f5f5f5;
+	
+}
+
+.popup .wbs
+{
+	border-bottom: 1px solid #bebebe;
+}
+
+.popup .popup-menu
+{
+	padding: 0px;
+	margin: -7px;
+	list-style: none;
+}
+
+.popup .popup-menu a
+{
+	display: inline-block;
+	width: 120px;
+	padding: 5px;
+	border: 1px solid #fff;
+	color: #666;
+	margin-top: 1px;
+}
+.popup .popup-menu a.selected
+{
+	border: 1px solid #ccc;
+	background: linen url('../images/tick.png') no-repeat center left;
+}
+.popup .se a
+{
+	padding-left: 16px;
+}
+.popup .popup-menu a:hover
+{
+	text-decoration: none;
+background: #eaeaea;
+color: #000;
+}
